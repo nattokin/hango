@@ -1,13 +1,3 @@
-gcposter
-====
-
-GoogleチャットでWebhookを使ってメッセージを投稿するためのパッケージです。
-
-## Usage
-
-### Example
-
-```go
 package main
 
 import (
@@ -39,4 +29,3 @@ func main() {
 
 	fmt.Printf("%s\n", bs)
 }
-```
