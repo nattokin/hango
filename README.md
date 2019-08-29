@@ -1,7 +1,7 @@
 hango
 ====
 
-GoogleチャットでWebhookを使ってメッセージを投稿するためのパッケージです。
+Hangout Chat でWebhookを使ってメッセージを投稿するためのパッケージです。
 
 ## Usage
 
